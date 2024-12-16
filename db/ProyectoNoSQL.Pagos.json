@@ -1,0 +1,9 @@
+[{
+  "_id": "1",
+  "usuario_id": "1",
+  "cancha_id": "1",
+  "fecha_pago": "2024-11-01",
+  "monto_total": 20000,
+  "metodo_pago": "Tarjeta de crédito",
+  "hora": "10:00"
+}]

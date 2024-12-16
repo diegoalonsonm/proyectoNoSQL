@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6756439cc9544d7586b894df"
+  },
+  "usuario_id": 4,
+  "fecha": "2024-12-07",
+  "producto": "Medias deportivas",
+  "cantidad": 2,
+  "montoTotal": 21.98
+},
+{
+  "_id": {
+    "$oid": "6756439cc9544d7586b894e0"
+  },
+  "usuario_id": 4,
+  "fecha": "2024-12-06",
+  "producto": "Camiseta de fútbol",
+  "cantidad": 1,
+  "montoTotal": 29.99
+},
+{
+  "_id": {
+    "$oid": "6756439cc9544d7586b894e1"
+  },
+  "usuario_id": 2,
+  "fecha": "2024-12-05",
+  "producto": "Bincha para la cabeza",
+  "cantidad": 3,
+  "montoTotal": 23.97
+}]

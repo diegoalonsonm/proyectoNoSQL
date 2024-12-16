@@ -1,0 +1,30 @@
+[{
+  "_id": "1",
+  "usuario_id": "2",
+  "tipo_objetivo": "cancha",
+  "objetivo_id": "1",
+  "comentario": "La cancha es excelente, muy bien cuidada. ¡Definitivamente volveré!",
+  "calificacion": 5,
+  "fecha": "2024-12-06T15:30:00.000Z",
+  "estado": "Publicado"
+},
+{
+  "_id": "2",
+  "usuario_id": "3",
+  "tipo_objetivo": "actividad",
+  "objetivo_id": "1",
+  "comentario": "El cumpleaños estuvo muy bien organizado, pero los chalecos estaban algo desgastados.",
+  "calificacion": 4,
+  "fecha": "2024-12-05T14:00:00.000Z",
+  "estado": "Publicado"
+},
+{
+  "_id": "3",
+  "usuario_id": "4",
+  "tipo_objetivo": "servicio",
+  "objetivo_id": "1",
+  "comentario": "El servicio fue regular, tardaron mucho en responder mi consulta.",
+  "calificacion": 3,
+  "fecha": "2024-12-07T10:00:00.000Z",
+  "estado": "Pendiente de revisión"
+}]

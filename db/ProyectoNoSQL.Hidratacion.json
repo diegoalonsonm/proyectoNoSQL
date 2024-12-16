@@ -1,0 +1,36 @@
+[{
+  "_id": "1",
+  "nombre": "Bidón de agua",
+  "costo_adquisicion": 2000,
+  "disponible": true
+},
+{
+  "_id": "2",
+  "nombre": "Bidón de Gatorade Fruit Punch",
+  "costo_adquisicion": 3000,
+  "disponible": true
+},
+{
+  "_id": "3",
+  "nombre": "Bidón de Gatorade Lemon Lime",
+  "costo_adquisicion": 3000,
+  "disponible": true
+},
+{
+  "_id": "4",
+  "nombre": "Bidón de Gatorade Grape",
+  "costo_adquisicion": 3000,
+  "disponible": true
+},
+{
+  "_id": "5",
+  "nombre": "Bidón de Gatorade Cool Blue",
+  "costo_adquisicion": 3000,
+  "disponible": true
+},
+{
+  "_id": "6",
+  "nombre": "Sin Hidratacion",
+  "costo_adquisicion": 0,
+  "disponible": true
+}]

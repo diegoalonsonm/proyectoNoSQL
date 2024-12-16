@@ -1,0 +1,35 @@
+[{
+  "_id": "1",
+  "color": "Azul",
+  "costo_adquisicion": 1000,
+  "disponible": true,
+  "cantidad": 15
+},
+{
+  "_id": "2",
+  "color": "Blanco",
+  "costo_adquisicion": 1000,
+  "disponible": true,
+  "cantidad": 15
+},
+{
+  "_id": "3",
+  "color": "Negro",
+  "costo_adquisicion": 1000,
+  "disponible": true,
+  "cantidad": 15
+},
+{
+  "_id": "4",
+  "color": "Verde",
+  "costo_adquisicion": 1000,
+  "disponible": true,
+  "cantidad": 15
+},
+{
+  "_id": "5",
+  "color": "Sin Chalecos",
+  "costo_adquisicion": 0,
+  "disponible": true,
+  "cantidad": 0
+}]

@@ -1,0 +1,69 @@
+[{
+  "_id": "1",
+  "nombre": "Juan Pérez",
+  "email": "juan123@example.com",
+  "telefono": "123456789",
+  "contrasena": "123",
+  "fecha_registro": "2024-01-01",
+  "id_rol": 1
+},
+{
+  "_id": 2,
+  "nombre": "Jose",
+  "email": "huertasjose40@gmail.com",
+  "telefono": "88612443",
+  "contrasena": "$2y$10$whKaZf7.gjL6Ju/6f4frcOyP1OY3/dGXAaouCp.clf/DEdYcY1Bj.",
+  "fecha_registro": {
+    "$date": "2024-12-05T07:39:38.299Z"
+  },
+  "id_rol": 1,
+  "estado": 1
+},
+{
+  "_id": 3,
+  "nombre": "Danoman",
+  "email": "danolopez@gmail.com",
+  "telefono": "83081160",
+  "contrasena": "$2y$10$KllBtqtTH6v2abOemCvsmuszGC/ApSpYMCGUEV4S98YY5x4hSWoG.",
+  "fecha_registro": {
+    "$date": "2024-12-05T07:40:14.078Z"
+  },
+  "id_rol": 2,
+  "estado": 1
+},
+{
+  "_id": 4,
+  "nombre": "Diegolazo",
+  "email": "Diegolazo@example.com",
+  "telefono": "88612443",
+  "contrasena": "$2y$10$ndAbKo47bUy.DUwN9T4dOuVNp1rQ5orE/itndvAZ9ooTmW4Ca/BVS",
+  "fecha_registro": {
+    "$date": "2024-12-05T07:47:47.904Z"
+  },
+  "id_rol": 2,
+  "estado": 1
+},
+{
+  "_id": 5,
+  "nombre": "Tobby",
+  "email": "tobby131005@gmail.com",
+  "telefono": "88612443",
+  "contrasena": "$2y$10$fa2xjShhmyEmy0sTI5x3ouan8qK1afbAZ7Pg7HrlxaRCsMXmzQKGK",
+  "fecha_registro": {
+    "$date": "2024-12-06T02:29:02.926Z"
+  },
+  "id_rol": 2,
+  "estado": 1
+},
+{
+  "_id": 7,
+  "nombre": "Diego",
+  "email": "diegosaurio@correo.com",
+  "telefono": "87878787",
+  "contrasena": "$2y$10$R30XIYgjQE.7U8T1jgE8kuRva4Idgyg6.CeLkRbg4k7Ul.JcTurpW",
+  "fecha_registro": {
+    "$date": "2024-12-07T17:48:59.475Z"
+  },
+  "id_rol": 1,
+  "estado": 1
+}]

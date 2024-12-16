@@ -1,0 +1,21 @@
+[{
+  "_id": "1",
+  "nombre": "Cancha 1",
+  "dimensiones": "Fut 5",
+  "ubicacion": "San José, Guadalupe",
+  "tipo_superficie": "Sintética"
+},
+{
+  "_id": "2",
+  "nombre": "Cancha 2",
+  "dimensiones": "Fut 5",
+  "ubicacion": "San José, Guadalupe",
+  "tipo_superficie": "Sintética"
+},
+{
+  "_id": "3",
+  "nombre": "Cancha 3",
+  "dimensiones": "Fut 7",
+  "ubicacion": "San José, Guadalupe",
+  "tipo_superficie": "Natural"
+}]

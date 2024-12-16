@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "6754780fc9544d7586b894b6"
+  },
+  "estado": "Disponible",
+  "marca": "Adidas",
+  "modelo": "Al Rihla Pro",
+  "ubicacion": "Depósito 1",
+  "descripcion": "Balón oficial aprobado por la FIFA para partidos de alta competencia.",
+  "fecha_registro": "2024-12-01",
+  "ultima_revision": "2024-12-05",
+  "condicion": "Nuevo",
+  "url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8e5ecfd272ad4ed8aa59ae6301079ea6_9366/Pelota_Al_Rihla_Pro_Blanco_H57783.jpg",
+  "precio": 120.45,
+  "nombre": "Balón de fútbol profesional",
+  "stock": 15,
+  "categoria": "Bolas"
+},
+{
+  "_id": {
+    "$oid": "6754780fc9544d7586b894b8"
+  },
+  "estado": "En mantenimiento",
+  "marca": "Puma",
+  "modelo": "King Match",
+  "ubicacion": "Depósito 1",
+  "descripcion": "Especialmente diseñado para canchas sintéticas, gran resistencia al desgaste.",
+  "fecha_registro": "2024-11-15",
+  "ultima_revision": "2024-12-01",
+  "condicion": "Reparación menor",
+  "url": "https://img.freepik.com/fotos-premium/pelota-clasica-jugar-al-futbol-blanco-detalles-negro-descansa-sobre-cesped-sintetico-verde-linea-marcado-cerca-centro-area-juegos-deportivos_255622-95.jpg?w=360",
+  "precio": 90,
+  "nombre": "Balón para césped sintético",
+  "stock": 10,
+  "categoria": "Bolas"
+},
+{
+  "_id": {
+    "$oid": "6754780fc9544d7586b894b9"
+  },
+  "estado": "Disponible",
+  "marca": "Molten",
+  "modelo": "Futsal 500",
+  "ubicacion": "Depósito 3",
+  "descripcion": "Balón oficial para juegos de fútbol sala.",
+  "fecha_registro": "2024-10-10",
+  "ultima_revision": "2024-11-30",
+  "condicion": "Nuevo",
+  "url": "https://www.verdugotienda.com/media/catalog/product/b/a/balon-de-futsal-paladium-runic-rfsvd64-184111.jpg",
+  "precio": 40.22,
+  "nombre": "Balón de fútbol sala",
+  "stock": 8,
+  "categoria": "Bolas"
+},
+{
+  "_id": {
+    "$oid": "6754780fc9544d7586b894ba"
+  },
+  "estado": "Disponible",
+  "marca": "Umbro",
+  "modelo": "Fan Edition",
+  "ubicacion": "Depósito 4",
+  "descripcion": "Balón económico para eventos promocionales y recreativos.",
+  "fecha_registro": "2024-09-25",
+  "ultima_revision": "2024-11-28",
+  "condicion": "Usado",
+  "url": "https://i.ebayimg.com/thumbs/images/g/MisAAOSwNnpnMP-7/s-l1200.jpg",
+  "precio": 100.25,
+  "nombre": "Balón promocional",
+  "stock": 20,
+  "categoria": "Bolas"
+},
+{
+  "_id": {
+    "$oid": "675479acc9544d7586b894c4"
+  },
+  "nombre": "Medias deportivas",
+  "descripcion": "Medias largas de alta calidad para uso deportivo.",
+  "precio": 10.99,
+  "stock": 50,
+  "categoria": "Accesorios deportivos",
+  "marca": "Nike",
+  "talla": "Única",
+  "url": "https://ticostorecr.com/wp-content/uploads/2022/02/001-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "675479acc9544d7586b894c5"
+  },
+  "nombre": "Camiseta de fútbol",
+  "descripcion": "Camiseta ligera y transpirable, ideal para partidos.",
+  "precio": 29.99,
+  "stock": 30,
+  "categoria": "Ropa deportiva",
+  "marca": "Adidas",
+  "talla": "M",
+  "url": "https://assets.adidas.com/images/w_450,f_auto,q_auto/a56d8b9f58734150b020af8d010c7147_9366/IQ5696_01_laydown.jpg"
+},
+{
+  "_id": {
+    "$oid": "675479acc9544d7586b894c6"
+  },
+  "nombre": "Vincha para la cabeza",
+  "descripcion": "Vincha elástica para absorber el sudor.",
+  "precio": 7.99,
+  "stock": 100,
+  "categoria": "Accesorios deportivos",
+  "marca": "Puma",
+  "talla": "Única",
+  "url": "https://tiendaspls.com/wp-content/uploads/2023/09/j0003599626os_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "675479acc9544d7586b894c7"
+  },
+  "nombre": "Shorts de entrenamiento",
+  "descripcion": "Shorts cómodos y ligeros para sesiones de entrenamiento.",
+  "precio": 19.99,
+  "stock": 40,
+  "categoria": "Ropa deportiva",
+  "marca": "Under Armour",
+  "talla": "L",
+  "url": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/41f3602ea09847f09b3eaf00009f822a_9366/IB8161_01_laydown.jpg"
+},
+{
+  "_id": {
+    "$oid": "675479acc9544d7586b894c8"
+  },
+  "nombre": "Botella de agua",
+  "descripcion": "Botella reutilizable de 1 litro con diseño ergonómico.",
+  "precio": 12.99,
+  "stock": 60,
+  "categoria": "Accesorios deportivos",
+  "marca": "CamelBak",
+  "talla": "1L",
+  "url": "https://uno-sports-site.s3.amazonaws.com/uploads/img/products/e5c789c2-28f2-4adc-9174-fe9fb8ce77fc.jpg"
+},
+{
+  "_id": {
+    "$oid": "675479acc9544d7586b894c9"
+  },
+  "nombre": "Gorra deportiva",
+  "descripcion": "Gorra ajustable con protección UV.",
+  "precio": 15.99,
+  "stock": 25,
+  "categoria": "Accesorios deportivos",
+  "marca": "Reebok",
+  "talla": "Única",
+  "url": "https://http2.mlstatic.com/D_NQ_NP_837530-MLM70770428148_072023-O.webp"
+},
+{
+  "_id": {
+    "$oid": "675479acc9544d7586b894ca"
+  },
+  "nombre": "Mochila para deporte",
+  "descripcion": "Mochila espaciosa con compartimentos para accesorios deportivos.",
+  "precio": 49.99,
+  "stock": 15,
+  "categoria": "Accesorios deportivos",
+  "marca": "The North Face",
+  "talla": "Grande",
+  "url": "https://m.media-amazon.com/images/I/81Rl6X-05jL._AC_UY580_.jpg"
+},
+{
+  "_id": {
+    "$oid": "675479acc9544d7586b894cb"
+  },
+  "nombre": "Tobillera elástica",
+  "descripcion": "Tobillera de soporte para prevenir lesiones.",
+  "precio": 9.99,
+  "stock": 80,
+  "categoria": "Accesorios médicos",
+  "marca": "Mueller",
+  "talla": "Única",
+  "url": "https://uno-sports-site.s3.amazonaws.com/uploads/img/products/a92b11ac-f983-4b92-a203-dcf5e9c75d86.jpg"
+}]

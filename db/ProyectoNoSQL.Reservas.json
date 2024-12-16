@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "67524d9c544f7937d10a9387"
+  },
+  "usuario_id": 3,
+  "cancha_id": "1",
+  "fecha": {
+    "$date": "2024-12-17T23:00:00.000Z"
+  },
+  "hora_inicio": "15:00",
+  "hora_fin": "16:00",
+  "chaleco_id": "4",
+  "hidratacion_id": "2",
+  "monto_total": 20000
+},
+{
+  "_id": {
+    "$oid": "67525d55544f7937d10a9389"
+  },
+  "usuario_id": 2,
+  "cancha_id": "1",
+  "fecha": {
+    "$date": "2024-12-18T23:00:00.000Z"
+  },
+  "hora_inicio": "14:00",
+  "hora_fin": "15:00",
+  "chaleco_id": "2",
+  "hidratacion_id": "3",
+  "monto_total": 20000
+},
+{
+  "_id": {
+    "$oid": "675489c2ff97e0502b0387d4"
+  },
+  "usuario_id": 6,
+  "cancha_id": "2",
+  "fecha": {
+    "$date": "2024-12-11T23:00:00.000Z"
+  },
+  "hora_inicio": "14:00",
+  "hora_fin": "15:00",
+  "chaleco_id": "5",
+  "hidratacion_id": "6",
+  "monto_total": 20000
+},
+{
+  "_id": {
+    "$oid": "67564761ff97e0502b0387dd"
+  },
+  "usuario_id": 4,
+  "cancha_id": "3",
+  "fecha": {
+    "$date": "2024-12-10T23:00:00.000Z"
+  },
+  "hora_inicio": "11:00",
+  "hora_fin": "12:00",
+  "chaleco_id": "1",
+  "hidratacion_id": "3",
+  "monto_total": 25000
+}]

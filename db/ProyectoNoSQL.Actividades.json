@@ -1,0 +1,48 @@
+[{
+  "_id": "1",
+  "nombre": "Cumpleaños Fut5",
+  "descripcion": "Incluye 10 chalecos, 10 bolsas de confites y un bidón de hidratación.",
+  "precio": 35000,
+  "detalles": {
+    "chaleco_id": "1",
+    "cantidad_chalecos": 10,
+    "confites": 10,
+    "hidratacion_id": "1"
+  }
+},
+{
+  "_id": "2",
+  "nombre": "Cumpleaños Fut7",
+  "descripcion": "Incluye 14 chalecos, 14 bolsas de confites y un bidón de hidratación.",
+  "precio": 42000,
+  "detalles": {
+    "chaleco_id": "1",
+    "cantidad_chalecos": 14,
+    "confites": 14,
+    "hidratacion_id": "2"
+  }
+},
+{
+  "_id": "3",
+  "nombre": "Tercer Tiempo Fut5",
+  "descripcion": "Incluye 10 chalecos, un bidón de hidratación y 20 cervezas.",
+  "precio": 50000,
+  "detalles": {
+    "chaleco_id": "1",
+    "cantidad_chalecos": 10,
+    "hidratacion_id": "3",
+    "cervezas": 20
+  }
+},
+{
+  "_id": "4",
+  "nombre": "Tercer Tiempo Fut7",
+  "descripcion": "Incluye 14 chalecos, un bidón de hidratación y 28 cervezas.",
+  "precio": 50000,
+  "detalles": {
+    "chaleco_id": "1",
+    "cantidad_chalecos": 14,
+    "hidratacion_id": "4",
+    "cervezas": 28
+  }
+}]

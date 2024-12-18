@@ -205,6 +205,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 $('#cancha-id').val(canchaId);
                 $('#cancha-nombre').text(canchaNombre);
                 $('#cancha-precio').val(canchaPrecio);
+
+                var today = new Date().toISOString().split('T')[0];
+                $('#fecha').attr('min', today);
                 
             });
             // Update price when chaleco or hidratacion changes

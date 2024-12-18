@@ -54,7 +54,6 @@ if (!$usuario_logueado || $id_rol != 1) {
                     <th>Chalecos</th>
                     <th>Hidratacion</th>
                     <th>MontoTotal</th>
-                    <th>Opciones</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -72,7 +71,6 @@ if (!$usuario_logueado || $id_rol != 1) {
                     <th>Chalecos</th>
                     <th>Hidratacion</th>
                     <th>MontoTotal</th>
-                    <th>Opciones</th>
                   </tr>
                 </tfoot>
               </table>

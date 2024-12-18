@@ -23,7 +23,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $usuario = $coleccion_usuarios->findOne(['email' => $email]);
     $rol_usuario_db = $coleccion_roles->findOne(['id_rol' => $usuario['id_rol']]);
 
-
     if ($usuario) {
         // Depuración: Verifica que la contraseña almacenada es correcta
         var_dump($usuario['contrasena']); // Verifica el valor de la contraseña en la BD
